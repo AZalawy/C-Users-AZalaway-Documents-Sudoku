@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="niveau">
+        <item>@string/label_facile</item>
+        <item>@string/label_moyen</item>
+        <item>@string/label_dur</item>
+    </array>
+</resources>

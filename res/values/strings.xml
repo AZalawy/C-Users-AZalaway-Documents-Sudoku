@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="game_title">Jeu</string>
+    <string name="no_moves_label">Non modifier</string>
+    <string name="keypad_title">Clavier</string>
+
+    <string name="settings_label">Configuration...</string>
+    <string name="settings_title">Paramètres de Sudoku</string>
+    <string name="settings_shortcut">s</string>
+
+    <string name="new_game_title">Niveau</string>
+    <string name="label_facile">Facile</string>
+    <string name="label_moyen">Moyen</string>
+    <string name="label_dur">Difficile</string>
+
+    <string name="titre_apropos">Sudoku est un puzzle de placement de nombres basé sur la logique.
+        En commençant par une grille de 9x9 partiellement complétée, l\'option
+        l'objectif est de remplir la grille de telle sorte que chaque
+        ligne, chaque colonne et chacune des cases 3x3.(aussi appelé <i>blocks</i>) contient les chiffres.
+        1 à 9 exactement une fois.A propos Sudoku</string>
+    <string name="about_title">A propos</string>
+
+</resources>
